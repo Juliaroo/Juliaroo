@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Juliaroo
 - 👀 I’m interested in Python and Data Visualization
 - 🌱 I’m currently learning Applied Finance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+- 💞️ I’m looking to collaborate on Business Analysis
+- 📫 How to reach me : Here!
 - 😄 Pronouns: She
 - ⚡ Fun fact: Ro pronouces as hoo!
 
